@@ -1,0 +1,5 @@
+#pragma once
+
+#define TABLE_MAX_PAGES 100
+#define COLUMN_USERNAME_SIZE 32
+#define COLUMN_EMAIL_SIZE 255
